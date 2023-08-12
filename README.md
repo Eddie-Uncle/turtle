@@ -18,4 +18,4 @@ Windows 10:
 
 * Check the optional feature “tcl/tk and IDLE” during the Python   installation
 
-After installing Tkinter, you can import it in your Python code using import tkinter (for Python 3) or import Tkinter (for Python 2)1
+After installing Tkinter, you can import it in your Python code using import tkinter (for Python 3) or import Tkinter (for Python 2)
